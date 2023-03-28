@@ -22,7 +22,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -155,14 +154,13 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd my-project
-  node install
+  cd AwesomeBooksProject
+npm install
 ```
 
 ### Usage
 
-To run the project, execute the following command:
-run live server
+To run the project, execute the following command:run the project live server
 
 <!--
 ```sh
