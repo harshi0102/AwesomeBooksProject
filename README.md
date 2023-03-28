@@ -188,7 +188,7 @@ https://github.com/harshi0102/AwesomeBooksProject.git
 <!-- AUTHORS -->
 
 👤 **Author 1**
-
+Harshika Govind
 - GitHub: [@harshi0102](https://github.com/harshi0102)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
 
