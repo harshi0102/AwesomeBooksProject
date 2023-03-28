@@ -190,9 +190,6 @@ https://github.com/harshi0102/AwesomeBooksProject.git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-## 👥 Authors <a name="authors"></a>
-
-<!-- > Mention all of the collaborators of this project. -->
 
 👤 **Author 1**
 
@@ -218,6 +215,7 @@ https://github.com/harshi0102/AwesomeBooksProject.git
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+feel free to check [issues page](https://github.com/harshi0102/AwesomeBooksProject/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,8 +231,7 @@ If you like this project please follow me on GitHub: [@harshi0102](https://githu
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
-<!-- Credit to [Cindy Shin](https://www.behance.net/adagio07), [the author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) -->
+Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
