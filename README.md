@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<h1>Awesome Books</h1>
-
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
 
