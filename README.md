@@ -38,7 +38,7 @@ Will start by building the core functionalities and ignoring how the website loo
   <img src="./images/awesome_books_basic_ui.png" alt="Basic UI" width="300px" />
 </p>
 
-Once have the code working, will play with refactoring it. In this step will also need to adhere to the layout presented in the wireframe, but i will choose the application's styling. So i initial ugly HTML will turn into something similar to this:
+Once have the code working, will play with refactoring it. In this step will also need to adhere to the layout presented in the wireframe, but i will choose the application's styling. So the initial ugly HTML will turn into something similar to this:
 
 <p align="center">
   <img src="./images/awesome_books_core_elements.png" alt="Core elements" width="400px"  />
