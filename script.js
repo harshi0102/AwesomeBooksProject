@@ -18,8 +18,6 @@ class Book {
     if (title !== '' && author !== '') {
       const newBook = new Book(title, author);
       books.push(newBook);
-    } else {
-      alert('Please fill out the fields in the book form');
     }
   }
 
