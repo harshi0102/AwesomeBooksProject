@@ -18,6 +18,8 @@ class Book {
     if (title !== '' && author !== '') {
       const newBook = new Book(title, author);
       books.push(newBook);
+    } else {
+      alert('Please fill out the fields in the book form');
     }
   }
 
@@ -32,12 +34,12 @@ function render() {
   for (let i = 0; i < books.length; i += 1) {
     let renderItem = '';
     renderItem = `
-    <tr>
-      <td>
+    <ul>
+      <li>
         <h2>"${books[i].title}" by ${books[i].author}</h2>
-      </td>
-      <td><a class='delete' name="${books[i].id}" href="#">Remove</a></td>
-    </tr>
+      </li>
+      <li><a class='delete' name="${books[i].id}" href="#">Remove</a></li>
+    </ul>
     `;
     renderBooks.innerHTML += renderItem;
   }
