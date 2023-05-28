@@ -26,7 +26,8 @@
 # 📖 Awesome books<a name="about-project"></a>
 "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
 
-<!-- > Describe your project in 1 or 2 sentences. -->
+![image](https://github.com/harshi0102/AwesomeBooksProject/assets/108334376/f3d5fa21-4a2d-4079-8c16-bac8eac0f292)
+Live Demo(https://harshi0102.github.io/AwesomeBooksProject/)
 ### How to build the "Awesome books" website
 - 1: Manage books collection (plain JS with objects).
 - 2: Manage books collection (plain JS with classes) and add basic CSS.
